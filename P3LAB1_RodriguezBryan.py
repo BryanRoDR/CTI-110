@@ -14,7 +14,7 @@ if input_year % 4 == 0:
         else:
             print("The year is NOT a leap year")
     else:
-        print("The year is NOT a leap year")
+        print("The year is a leap year")
 else:
     print("The year is NOT a leap year")
 
